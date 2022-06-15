@@ -1,8 +1,4 @@
-<img src="astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo foguete com astronauta">
-
-<p align="left"> 
-  🖖 Olá, visitante! Meu nome é Luan Rodrigues Pigosso.
-</p>
+# Luan Rodrigues Pigosso.
 
 <p align="left">
   ☕ Habilidades: <strong>HTML, CSS, WordPress</strong>
@@ -27,3 +23,5 @@
     <img src="https://img.shields.io/badge/-Luan%20Pigosso-5433CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/8zwDhbtX" />
   </a>
 </p>
+
+<img src="astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo foguete com astronauta">
