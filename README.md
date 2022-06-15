@@ -7,11 +7,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Pigosso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanpigosso/)](https://www.linkedin.com/in/luanpigosso/) 
 [![Gmail Badge](https://img.shields.io/badge/-luanrodriguespigosso@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanrodriguespigosso@gmail.com)](mailto:luanrodriguespigosso@gmail.com)
 
+</br>
 
 ☕ Habilidades: <strong>HTML, CSS, WordPress</strong>
 
+</br>
 
 📚 Estudando: <strong>JavaScript, Node.js, SQL, React</strong>
 
+</br>
 
 💼 Ferramentas: <strong>Vs Code, Figma, Canva, Trello, Vercel, Git e GitHub</strong>
