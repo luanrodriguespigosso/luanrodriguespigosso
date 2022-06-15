@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo foguete com astronauta">
 
-<!--
-**luanrodriguespigosso/luanrodriguespigosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  🖖 Olá, visitante! Meu nome é Luan Rodrigues Pigosso.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  ☕ Habilidades: <strong>HTML, CSS, WordPress</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  📚 Estudando: <strong>JavaScript, Node.js, SQL, React</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Vs Code, Figma, Canva, Trello, Vercel, Git e GitHub</strong>
+</p>
+
+</br>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/luanpigosso" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Luan%20Pigosso-5433CC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanpigosso" />
+  </a>
+
+  <a href="https://discord.gg/8zwDhbtX" alt="Discord">
+    <img src="https://img.shields.io/badge/-Luan%20Pigosso-5433CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/8zwDhbtX" />
+  </a>
+</p>
