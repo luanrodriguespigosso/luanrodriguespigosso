@@ -9,9 +9,11 @@
 
 
 ☕ Habilidades: <strong>HTML, CSS, WordPress</strong>
-
-
+</br>
+</br>
 📚 Estudando: <strong>JavaScript, Node.js, SQL, React</strong>
-
-
+</br>
+</br>
 💼 Ferramentas: <strong>Vs Code, Figma, Canva, Trello, Vercel, Git e GitHub</strong>
+</br>
+</br>
